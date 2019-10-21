@@ -9,6 +9,11 @@
   width: 50%;
   padding: 0 10px;
 }
+.column33 {
+  float: left;
+  width: 33%;
+  padding: 0 10px;
+}
 
 /* Remove extra left and right margins, due to padding */
 .row34 {margin: 0 -5px;}
@@ -34,7 +39,7 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
   text-align: center;
-  background-color: #f1f1f1;
+  background-color: #000000;
 }
 .three
 {
@@ -59,12 +64,11 @@
 }
 hr
 {
-	border: 2px solid #5df542;
+  border: 2px solid #5df542;
   border-radius: 3px;
   width: 30%;
-  margin-left: 0;
+  margin-left: 5;
 }
-
 footer{
 background-color:black;
 text-align: center;
